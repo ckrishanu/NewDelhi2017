@@ -2,7 +2,7 @@
 title : Introduction to git using GitHub Desktop
 part of : BITSS World Bank Feb 2017 Workshop
 time : 3 hours
-author: Garret Christensen
+author: Garret Christensen, Krishanu(test)
 affiliation: UC Berkeley
 ---
 
